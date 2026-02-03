@@ -5,7 +5,7 @@
 <img alt="GitHub License" src="https://img.shields.io/github/license/prayag17/Blink?style=for-the-badge&labelColor=000">  
 <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/prayag17/Blink/continuous-integration.yml?style=for-the-badge&logo=github&label=CI&labelColor=000&link=https%3A%2F%2Fgithub.com%2Fprayag17%Blink%2Factions%2Fworkflows%2Fcontinuous-integration.yml">
 </div>
-
+.
 ### 
 
 > [!IMPORTANT]
@@ -84,3 +84,4 @@
 - [@ferferga](https://github.com/ferferga) for helping in development behind the scenes.
 - All contributors of [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue).
 - And also [@jellyfin](https://github.com/jellyfin/) for creating the main service
+
